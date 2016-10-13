@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3549BB601DA38ADB00C63030"
+               BuildableName = "SwiftDataStructuresTests-iOS.xctest"
+               BlueprintName = "SwiftDataStructuresTests-iOS"
+               ReferencedContainer = "container:SwiftDataStructures.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3549BB201DA389CD00C63030"
+            BuildableName = "SwiftDataStructures.framework"
+            BlueprintName = "SwiftDataStructures-iOS"
+            ReferencedContainer = "container:SwiftDataStructures.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
