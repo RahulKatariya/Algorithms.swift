@@ -19,7 +19,7 @@ class SwiftDataStructuresSpec: QuickSpec {
                 expect("SwiftDataStructures") == "SwiftDataStructures"
             }
         }
-
+        
     }
 
 }
