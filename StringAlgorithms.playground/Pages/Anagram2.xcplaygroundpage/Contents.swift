@@ -18,8 +18,9 @@ func areAnagramUsingCount(first: String, second: String) -> Bool {
     if trimmedFirst.count != trimmedSecond.count { return false }
     
     // Create a count dict of total unicode characters prefilled with 0.
-    let keys: [UInt32] = Array(1...100)
-    var countDict = Dictionary(uniqueKeysWithValues: keys.lazy.map {($0, 0)})
+    var countDict = Dictionary(
+        uniqueKeysWithValues: Array<UInt32>(1...100).lazy.map {($0, 0)}
+    )
     
     // Increase count dict by 1 for character in first word and decrease by 1 for character in second word.
     zip(Array(trimmedFirst), Array(trimmedSecond)).forEach {
