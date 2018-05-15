@@ -1,6 +1,6 @@
 //
 //  MergeSort.swift
-//  SwiftDataStructures
+//  DataStructures
 //
 //  Created by Rahul Katariya on 15/10/16.
 //  Copyright © 2016 RahulKatariya. All rights reserved.

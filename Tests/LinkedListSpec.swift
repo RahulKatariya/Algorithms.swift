@@ -8,7 +8,7 @@
 
 import Quick
 import Nimble
-@testable import SwiftDataStructures
+@testable import DataStructures
 
 class LinkedListSpec: QuickSpec {
     

@@ -6,19 +6,15 @@
 
 func bubbleSort<T: Comparable>(array: [T]) -> [T] {
     var array = array
-    var i = 0
-    while i < array.count {
-        var j = i
-        while j < array.count {
+    for i in 0..<array.count {
+        for j in 0..<array.count {
             let previousValue = array[i]
             let nextValue = array[j]
             if nextValue < previousValue {
                 array[j] = previousValue
                 array[i] = nextValue
             }
-            j = j+1
         }
-        i = i+1
     }
     return array
 }

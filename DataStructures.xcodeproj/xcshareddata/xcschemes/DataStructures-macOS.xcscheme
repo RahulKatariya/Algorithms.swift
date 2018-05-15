@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3549BB2D1DA389DB00C63030"
-               BuildableName = "SwiftDataStructures.framework"
-               BlueprintName = "SwiftDataStructures-watchOS"
-               ReferencedContainer = "container:SwiftDataStructures.xcodeproj">
+               BlueprintIdentifier = "3549BB3A1DA389E800C63030"
+               BuildableName = "DataStructures.framework"
+               BlueprintName = "DataStructures-macOS"
+               ReferencedContainer = "container:DataStructures.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3549BB7E1DA38B0000C63030"
+               BuildableName = "DataStructuresTests-macOS.xctest"
+               BlueprintName = "DataStructuresTests-macOS"
+               ReferencedContainer = "container:DataStructures.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3549BB3A1DA389E800C63030"
+            BuildableName = "DataStructures.framework"
+            BlueprintName = "DataStructures-macOS"
+            ReferencedContainer = "container:DataStructures.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,10 +64,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3549BB2D1DA389DB00C63030"
-            BuildableName = "SwiftDataStructures.framework"
-            BlueprintName = "SwiftDataStructures-watchOS"
-            ReferencedContainer = "container:SwiftDataStructures.xcodeproj">
+            BlueprintIdentifier = "3549BB3A1DA389E800C63030"
+            BuildableName = "DataStructures.framework"
+            BlueprintName = "DataStructures-macOS"
+            ReferencedContainer = "container:DataStructures.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +82,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3549BB2D1DA389DB00C63030"
-            BuildableName = "SwiftDataStructures.framework"
-            BlueprintName = "SwiftDataStructures-watchOS"
-            ReferencedContainer = "container:SwiftDataStructures.xcodeproj">
+            BlueprintIdentifier = "3549BB3A1DA389E800C63030"
+            BuildableName = "DataStructures.framework"
+            BlueprintName = "DataStructures-macOS"
+            ReferencedContainer = "container:DataStructures.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

@@ -1,5 +1,5 @@
 //
-//  SwiftDataStructures.swift
+//  DataStructures.swift
 //  Restofire
 //
 //  Created by Rahul Katariya on 23/10/15.
@@ -9,7 +9,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftDataStructures",
+    name: "DataStructures",
     dependencies: [],
     exclude: ["Tests"]
 )

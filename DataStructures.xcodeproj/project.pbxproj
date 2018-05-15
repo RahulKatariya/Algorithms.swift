@@ -43,19 +43,19 @@
 		3535EF1D20AA9298009819CF /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3535EF1B20AA9298009819CF /* StringExtensions.swift */; };
 		3535EF1E20AA9298009819CF /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3535EF1B20AA9298009819CF /* StringExtensions.swift */; };
 		3535EF1F20AA9298009819CF /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3535EF1B20AA9298009819CF /* StringExtensions.swift */; };
-		3549BB501DA38A2000C63030 /* SwiftDataStructures.h in Headers */ = {isa = PBXBuildFile; fileRef = 3549BB181DA3890B00C63030 /* SwiftDataStructures.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3549BB511DA38A2000C63030 /* SwiftDataStructures.h in Headers */ = {isa = PBXBuildFile; fileRef = 3549BB181DA3890B00C63030 /* SwiftDataStructures.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3549BB521DA38A2100C63030 /* SwiftDataStructures.h in Headers */ = {isa = PBXBuildFile; fileRef = 3549BB181DA3890B00C63030 /* SwiftDataStructures.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3549BB531DA38A2200C63030 /* SwiftDataStructures.h in Headers */ = {isa = PBXBuildFile; fileRef = 3549BB181DA3890B00C63030 /* SwiftDataStructures.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3549BB501DA38A2000C63030 /* DataStructures.h in Headers */ = {isa = PBXBuildFile; fileRef = 3549BB181DA3890B00C63030 /* DataStructures.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3549BB511DA38A2000C63030 /* DataStructures.h in Headers */ = {isa = PBXBuildFile; fileRef = 3549BB181DA3890B00C63030 /* DataStructures.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3549BB521DA38A2100C63030 /* DataStructures.h in Headers */ = {isa = PBXBuildFile; fileRef = 3549BB181DA3890B00C63030 /* DataStructures.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3549BB531DA38A2200C63030 /* DataStructures.h in Headers */ = {isa = PBXBuildFile; fileRef = 3549BB181DA3890B00C63030 /* DataStructures.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3549BB561DA38A5E00C63030 /* Info-tvOS.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3549BB551DA38A5E00C63030 /* Info-tvOS.plist */; };
 		3549BB591DA38A8800C63030 /* Info-tvOS.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3549BB571DA38A8800C63030 /* Info-tvOS.plist */; };
 		3549BB5A1DA38A8800C63030 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3549BB581DA38A8800C63030 /* Info.plist */; };
-		3549BB661DA38ADB00C63030 /* SwiftDataStructures.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3549BB211DA389CD00C63030 /* SwiftDataStructures.framework */; };
-		3549BB751DA38AEF00C63030 /* SwiftDataStructures.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3549BB481DA389F300C63030 /* SwiftDataStructures.framework */; };
-		3549BB841DA38B0000C63030 /* SwiftDataStructures.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3549BB3B1DA389E800C63030 /* SwiftDataStructures.framework */; };
-		3549BB8B1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3549BB8A1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift */; };
-		3549BB8C1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3549BB8A1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift */; };
-		3549BB8D1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3549BB8A1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift */; };
+		3549BB661DA38ADB00C63030 /* DataStructures.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3549BB211DA389CD00C63030 /* DataStructures.framework */; };
+		3549BB751DA38AEF00C63030 /* DataStructures.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3549BB481DA389F300C63030 /* DataStructures.framework */; };
+		3549BB841DA38B0000C63030 /* DataStructures.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3549BB3B1DA389E800C63030 /* DataStructures.framework */; };
+		3549BB8B1DA38C0A00C63030 /* DataStructuresSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3549BB8A1DA38C0A00C63030 /* DataStructuresSpec.swift */; };
+		3549BB8C1DA38C0A00C63030 /* DataStructuresSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3549BB8A1DA38C0A00C63030 /* DataStructuresSpec.swift */; };
+		3549BB8D1DA38C0A00C63030 /* DataStructuresSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3549BB8A1DA38C0A00C63030 /* DataStructuresSpec.swift */; };
 		3558E2D31DAF721200CF3369 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3558E2D21DAF721200CF3369 /* LinkedList.swift */; };
 		3558E2D41DAF721200CF3369 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3558E2D21DAF721200CF3369 /* LinkedList.swift */; };
 		3558E2D51DAF721200CF3369 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3558E2D21DAF721200CF3369 /* LinkedList.swift */; };
@@ -214,18 +214,18 @@
 		3535EF1620A9EBDD009819CF /* CharacterExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterExtensions.swift; sourceTree = "<group>"; };
 		3535EF1B20AA9298009819CF /* StringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
 		3549BB171DA3890B00C63030 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3549BB181DA3890B00C63030 /* SwiftDataStructures.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwiftDataStructures.h; sourceTree = "<group>"; };
-		3549BB211DA389CD00C63030 /* SwiftDataStructures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftDataStructures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3549BB2E1DA389DB00C63030 /* SwiftDataStructures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftDataStructures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3549BB3B1DA389E800C63030 /* SwiftDataStructures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftDataStructures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3549BB481DA389F300C63030 /* SwiftDataStructures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftDataStructures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3549BB181DA3890B00C63030 /* DataStructures.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataStructures.h; sourceTree = "<group>"; };
+		3549BB211DA389CD00C63030 /* DataStructures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DataStructures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3549BB2E1DA389DB00C63030 /* DataStructures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DataStructures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3549BB3B1DA389E800C63030 /* DataStructures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DataStructures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3549BB481DA389F300C63030 /* DataStructures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DataStructures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3549BB551DA38A5E00C63030 /* Info-tvOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-tvOS.plist"; sourceTree = "<group>"; };
 		3549BB571DA38A8800C63030 /* Info-tvOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-tvOS.plist"; sourceTree = "<group>"; };
 		3549BB581DA38A8800C63030 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3549BB611DA38ADB00C63030 /* SwiftDataStructuresTests-iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftDataStructuresTests-iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3549BB701DA38AEF00C63030 /* SwiftDataStructuresTests-tvOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftDataStructuresTests-tvOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3549BB7F1DA38B0000C63030 /* SwiftDataStructuresTests-macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftDataStructuresTests-macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3549BB8A1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftDataStructuresSpec.swift; sourceTree = "<group>"; };
+		3549BB611DA38ADB00C63030 /* DataStructuresTests-iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DataStructuresTests-iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3549BB701DA38AEF00C63030 /* DataStructuresTests-tvOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DataStructuresTests-tvOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3549BB7F1DA38B0000C63030 /* DataStructuresTests-macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DataStructuresTests-macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3549BB8A1DA38C0A00C63030 /* DataStructuresSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataStructuresSpec.swift; sourceTree = "<group>"; };
 		3558E2D21DAF721200CF3369 /* LinkedList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
 		3558E2D71DAF723A00CF3369 /* LinkedListSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkedListSpec.swift; sourceTree = "<group>"; };
 		357D95471DA3F2AB00AEC55F /* Nimble.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Nimble.framework; path = Carthage/Build/iOS/Nimble.framework; sourceTree = "<group>"; };
@@ -289,7 +289,7 @@
 			files = (
 				355AA0AC1DA549A8004C69BF /* Nimble.framework in Frameworks */,
 				355AA0AD1DA549A8004C69BF /* Quick.framework in Frameworks */,
-				3549BB661DA38ADB00C63030 /* SwiftDataStructures.framework in Frameworks */,
+				3549BB661DA38ADB00C63030 /* DataStructures.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,7 +299,7 @@
 			files = (
 				355AA0AA1DA5499C004C69BF /* Nimble.framework in Frameworks */,
 				355AA0AB1DA5499C004C69BF /* Quick.framework in Frameworks */,
-				3549BB751DA38AEF00C63030 /* SwiftDataStructures.framework in Frameworks */,
+				3549BB751DA38AEF00C63030 /* DataStructures.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,7 +309,7 @@
 			files = (
 				355AA0A81DA5498F004C69BF /* Nimble.framework in Frameworks */,
 				355AA0A91DA5498F004C69BF /* Quick.framework in Frameworks */,
-				3549BB841DA38B0000C63030 /* SwiftDataStructures.framework in Frameworks */,
+				3549BB841DA38B0000C63030 /* DataStructures.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -359,13 +359,13 @@
 		3549BB061DA387DB00C63030 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3549BB211DA389CD00C63030 /* SwiftDataStructures.framework */,
-				3549BB2E1DA389DB00C63030 /* SwiftDataStructures.framework */,
-				3549BB3B1DA389E800C63030 /* SwiftDataStructures.framework */,
-				3549BB481DA389F300C63030 /* SwiftDataStructures.framework */,
-				3549BB611DA38ADB00C63030 /* SwiftDataStructuresTests-iOS.xctest */,
-				3549BB701DA38AEF00C63030 /* SwiftDataStructuresTests-tvOS.xctest */,
-				3549BB7F1DA38B0000C63030 /* SwiftDataStructuresTests-macOS.xctest */,
+				3549BB211DA389CD00C63030 /* DataStructures.framework */,
+				3549BB2E1DA389DB00C63030 /* DataStructures.framework */,
+				3549BB3B1DA389E800C63030 /* DataStructures.framework */,
+				3549BB481DA389F300C63030 /* DataStructures.framework */,
+				3549BB611DA38ADB00C63030 /* DataStructuresTests-iOS.xctest */,
+				3549BB701DA38AEF00C63030 /* DataStructuresTests-tvOS.xctest */,
+				3549BB7F1DA38B0000C63030 /* DataStructuresTests-macOS.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -383,7 +383,7 @@
 		3549BB191DA3890B00C63030 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
-				3549BB8A1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift */,
+				3549BB8A1DA38C0A00C63030 /* DataStructuresSpec.swift */,
 				35F636DA1DB0FAE300AF4E94 /* LinkedListSpec */,
 				35F636DB1DB0FAED00AF4E94 /* StackSpec */,
 				35F636DC1DB0FAF600AF4E94 /* QueueSpec */,
@@ -396,7 +396,7 @@
 		3549BB541DA38A4000C63030 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				3549BB181DA3890B00C63030 /* SwiftDataStructures.h */,
+				3549BB181DA3890B00C63030 /* DataStructures.h */,
 				3549BB171DA3890B00C63030 /* Info.plist */,
 				3549BB551DA38A5E00C63030 /* Info-tvOS.plist */,
 			);
@@ -521,7 +521,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3549BB501DA38A2000C63030 /* SwiftDataStructures.h in Headers */,
+				3549BB501DA38A2000C63030 /* DataStructures.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -529,7 +529,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3549BB521DA38A2100C63030 /* SwiftDataStructures.h in Headers */,
+				3549BB521DA38A2100C63030 /* DataStructures.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -537,7 +537,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3549BB531DA38A2200C63030 /* SwiftDataStructures.h in Headers */,
+				3549BB531DA38A2200C63030 /* DataStructures.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -545,16 +545,16 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3549BB511DA38A2000C63030 /* SwiftDataStructures.h in Headers */,
+				3549BB511DA38A2000C63030 /* DataStructures.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		3549BB201DA389CD00C63030 /* SwiftDataStructures-iOS */ = {
+		3549BB201DA389CD00C63030 /* DataStructures-iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3549BB261DA389CD00C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructures-iOS" */;
+			buildConfigurationList = 3549BB261DA389CD00C63030 /* Build configuration list for PBXNativeTarget "DataStructures-iOS" */;
 			buildPhases = (
 				3549BB1C1DA389CD00C63030 /* Sources */,
 				3549BB1D1DA389CD00C63030 /* Frameworks */,
@@ -565,14 +565,14 @@
 			);
 			dependencies = (
 			);
-			name = "SwiftDataStructures-iOS";
+			name = "DataStructures-iOS";
 			productName = "SwiftDataStructures-iOS";
-			productReference = 3549BB211DA389CD00C63030 /* SwiftDataStructures.framework */;
+			productReference = 3549BB211DA389CD00C63030 /* DataStructures.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		3549BB2D1DA389DB00C63030 /* SwiftDataStructures-watchOS */ = {
+		3549BB2D1DA389DB00C63030 /* DataStructures-watchOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3549BB331DA389DB00C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructures-watchOS" */;
+			buildConfigurationList = 3549BB331DA389DB00C63030 /* Build configuration list for PBXNativeTarget "DataStructures-watchOS" */;
 			buildPhases = (
 				3549BB291DA389DB00C63030 /* Sources */,
 				3549BB2A1DA389DB00C63030 /* Frameworks */,
@@ -583,14 +583,14 @@
 			);
 			dependencies = (
 			);
-			name = "SwiftDataStructures-watchOS";
+			name = "DataStructures-watchOS";
 			productName = "SwiftDataStructures-watchOS";
-			productReference = 3549BB2E1DA389DB00C63030 /* SwiftDataStructures.framework */;
+			productReference = 3549BB2E1DA389DB00C63030 /* DataStructures.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		3549BB3A1DA389E800C63030 /* SwiftDataStructures-macOS */ = {
+		3549BB3A1DA389E800C63030 /* DataStructures-macOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3549BB401DA389E800C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructures-macOS" */;
+			buildConfigurationList = 3549BB401DA389E800C63030 /* Build configuration list for PBXNativeTarget "DataStructures-macOS" */;
 			buildPhases = (
 				3549BB361DA389E800C63030 /* Sources */,
 				3549BB371DA389E800C63030 /* Frameworks */,
@@ -601,14 +601,14 @@
 			);
 			dependencies = (
 			);
-			name = "SwiftDataStructures-macOS";
+			name = "DataStructures-macOS";
 			productName = "SwiftDataStructures-macOS";
-			productReference = 3549BB3B1DA389E800C63030 /* SwiftDataStructures.framework */;
+			productReference = 3549BB3B1DA389E800C63030 /* DataStructures.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		3549BB471DA389F300C63030 /* SwiftDataStructures-tvOS */ = {
+		3549BB471DA389F300C63030 /* DataStructures-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3549BB4D1DA389F300C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructures-tvOS" */;
+			buildConfigurationList = 3549BB4D1DA389F300C63030 /* Build configuration list for PBXNativeTarget "DataStructures-tvOS" */;
 			buildPhases = (
 				3549BB431DA389F300C63030 /* Sources */,
 				3549BB441DA389F300C63030 /* Frameworks */,
@@ -619,14 +619,14 @@
 			);
 			dependencies = (
 			);
-			name = "SwiftDataStructures-tvOS";
+			name = "DataStructures-tvOS";
 			productName = "SwiftDataStructures-tvOS";
-			productReference = 3549BB481DA389F300C63030 /* SwiftDataStructures.framework */;
+			productReference = 3549BB481DA389F300C63030 /* DataStructures.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		3549BB601DA38ADB00C63030 /* SwiftDataStructuresTests-iOS */ = {
+		3549BB601DA38ADB00C63030 /* DataStructuresTests-iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3549BB691DA38ADB00C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructuresTests-iOS" */;
+			buildConfigurationList = 3549BB691DA38ADB00C63030 /* Build configuration list for PBXNativeTarget "DataStructuresTests-iOS" */;
 			buildPhases = (
 				3549BB5D1DA38ADB00C63030 /* Sources */,
 				3549BB5E1DA38ADB00C63030 /* Frameworks */,
@@ -638,14 +638,14 @@
 			dependencies = (
 				3549BB681DA38ADB00C63030 /* PBXTargetDependency */,
 			);
-			name = "SwiftDataStructuresTests-iOS";
+			name = "DataStructuresTests-iOS";
 			productName = "SwiftDataStructuresTests-iOS";
-			productReference = 3549BB611DA38ADB00C63030 /* SwiftDataStructuresTests-iOS.xctest */;
+			productReference = 3549BB611DA38ADB00C63030 /* DataStructuresTests-iOS.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		3549BB6F1DA38AEF00C63030 /* SwiftDataStructuresTests-tvOS */ = {
+		3549BB6F1DA38AEF00C63030 /* DataStructuresTests-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3549BB781DA38AEF00C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructuresTests-tvOS" */;
+			buildConfigurationList = 3549BB781DA38AEF00C63030 /* Build configuration list for PBXNativeTarget "DataStructuresTests-tvOS" */;
 			buildPhases = (
 				3549BB6C1DA38AEF00C63030 /* Sources */,
 				3549BB6D1DA38AEF00C63030 /* Frameworks */,
@@ -657,14 +657,14 @@
 			dependencies = (
 				3549BB771DA38AEF00C63030 /* PBXTargetDependency */,
 			);
-			name = "SwiftDataStructuresTests-tvOS";
+			name = "DataStructuresTests-tvOS";
 			productName = "SwiftDataStructuresTests-tvOS";
-			productReference = 3549BB701DA38AEF00C63030 /* SwiftDataStructuresTests-tvOS.xctest */;
+			productReference = 3549BB701DA38AEF00C63030 /* DataStructuresTests-tvOS.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		3549BB7E1DA38B0000C63030 /* SwiftDataStructuresTests-macOS */ = {
+		3549BB7E1DA38B0000C63030 /* DataStructuresTests-macOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3549BB871DA38B0000C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructuresTests-macOS" */;
+			buildConfigurationList = 3549BB871DA38B0000C63030 /* Build configuration list for PBXNativeTarget "DataStructuresTests-macOS" */;
 			buildPhases = (
 				3549BB7B1DA38B0000C63030 /* Sources */,
 				3549BB7C1DA38B0000C63030 /* Frameworks */,
@@ -676,9 +676,9 @@
 			dependencies = (
 				3549BB861DA38B0000C63030 /* PBXTargetDependency */,
 			);
-			name = "SwiftDataStructuresTests-macOS";
+			name = "DataStructuresTests-macOS";
 			productName = "SwiftDataStructuresTests-macOS";
-			productReference = 3549BB7F1DA38B0000C63030 /* SwiftDataStructuresTests-macOS.xctest */;
+			productReference = 3549BB7F1DA38B0000C63030 /* DataStructuresTests-macOS.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -728,7 +728,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3549BAFF1DA387DB00C63030 /* Build configuration list for PBXProject "SwiftDataStructures" */;
+			buildConfigurationList = 3549BAFF1DA387DB00C63030 /* Build configuration list for PBXProject "DataStructures" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -740,13 +740,13 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3549BB201DA389CD00C63030 /* SwiftDataStructures-iOS */,
-				3549BB601DA38ADB00C63030 /* SwiftDataStructuresTests-iOS */,
-				3549BB3A1DA389E800C63030 /* SwiftDataStructures-macOS */,
-				3549BB7E1DA38B0000C63030 /* SwiftDataStructuresTests-macOS */,
-				3549BB471DA389F300C63030 /* SwiftDataStructures-tvOS */,
-				3549BB6F1DA38AEF00C63030 /* SwiftDataStructuresTests-tvOS */,
-				3549BB2D1DA389DB00C63030 /* SwiftDataStructures-watchOS */,
+				3549BB201DA389CD00C63030 /* DataStructures-iOS */,
+				3549BB601DA38ADB00C63030 /* DataStructuresTests-iOS */,
+				3549BB3A1DA389E800C63030 /* DataStructures-macOS */,
+				3549BB7E1DA38B0000C63030 /* DataStructuresTests-macOS */,
+				3549BB471DA389F300C63030 /* DataStructures-tvOS */,
+				3549BB6F1DA38AEF00C63030 /* DataStructuresTests-tvOS */,
+				3549BB2D1DA389DB00C63030 /* DataStructures-watchOS */,
 			);
 		};
 /* End PBXProject section */
@@ -922,7 +922,7 @@
 				35F636CB1DB0FAA900AF4E94 /* BinarySearchTreeSpec.swift in Sources */,
 				35F636B71DB0FA7D00AF4E94 /* StackLinkedListSpec.swift in Sources */,
 				35F636BB1DB0FA8700AF4E94 /* QueueLinkedListSpec.swift in Sources */,
-				3549BB8B1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift in Sources */,
+				3549BB8B1DA38C0A00C63030 /* DataStructuresSpec.swift in Sources */,
 				3558E2D81DAF723A00CF3369 /* LinkedListSpec.swift in Sources */,
 				35F636B31DB0FA7500AF4E94 /* StackArraySpec.swift in Sources */,
 				35F636C71DB0FA9B00AF4E94 /* BinaryTreeSpec.swift in Sources */,
@@ -940,7 +940,7 @@
 				35F636CD1DB0FAA900AF4E94 /* BinarySearchTreeSpec.swift in Sources */,
 				35F636B91DB0FA7D00AF4E94 /* StackLinkedListSpec.swift in Sources */,
 				35F636BD1DB0FA8700AF4E94 /* QueueLinkedListSpec.swift in Sources */,
-				3549BB8D1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift in Sources */,
+				3549BB8D1DA38C0A00C63030 /* DataStructuresSpec.swift in Sources */,
 				3558E2DA1DAF723A00CF3369 /* LinkedListSpec.swift in Sources */,
 				35F636B51DB0FA7600AF4E94 /* StackArraySpec.swift in Sources */,
 				35F636C91DB0FA9B00AF4E94 /* BinaryTreeSpec.swift in Sources */,
@@ -958,7 +958,7 @@
 				35F636CC1DB0FAA900AF4E94 /* BinarySearchTreeSpec.swift in Sources */,
 				35F636B81DB0FA7D00AF4E94 /* StackLinkedListSpec.swift in Sources */,
 				35F636BC1DB0FA8700AF4E94 /* QueueLinkedListSpec.swift in Sources */,
-				3549BB8C1DA38C0A00C63030 /* SwiftDataStructuresSpec.swift in Sources */,
+				3549BB8C1DA38C0A00C63030 /* DataStructuresSpec.swift in Sources */,
 				3558E2D91DAF723A00CF3369 /* LinkedListSpec.swift in Sources */,
 				35F636B41DB0FA7500AF4E94 /* StackArraySpec.swift in Sources */,
 				35F636C81DB0FA9B00AF4E94 /* BinaryTreeSpec.swift in Sources */,
@@ -970,17 +970,17 @@
 /* Begin PBXTargetDependency section */
 		3549BB681DA38ADB00C63030 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3549BB201DA389CD00C63030 /* SwiftDataStructures-iOS */;
+			target = 3549BB201DA389CD00C63030 /* DataStructures-iOS */;
 			targetProxy = 3549BB671DA38ADB00C63030 /* PBXContainerItemProxy */;
 		};
 		3549BB771DA38AEF00C63030 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3549BB471DA389F300C63030 /* SwiftDataStructures-tvOS */;
+			target = 3549BB471DA389F300C63030 /* DataStructures-tvOS */;
 			targetProxy = 3549BB761DA38AEF00C63030 /* PBXContainerItemProxy */;
 		};
 		3549BB861DA38B0000C63030 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3549BB3A1DA389E800C63030 /* SwiftDataStructures-macOS */;
+			target = 3549BB3A1DA389E800C63030 /* DataStructures-macOS */;
 			targetProxy = 3549BB851DA38B0000C63030 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1097,8 +1097,8 @@
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructures-iOS";
-				PRODUCT_NAME = SwiftDataStructures;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructures-iOS";
+				PRODUCT_NAME = DataStructures;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
@@ -1117,8 +1117,8 @@
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructures-iOS";
-				PRODUCT_NAME = SwiftDataStructures;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructures-iOS";
+				PRODUCT_NAME = DataStructures;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
 			};
@@ -1137,8 +1137,8 @@
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructures-watchOS";
-				PRODUCT_NAME = SwiftDataStructures;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructures-watchOS";
+				PRODUCT_NAME = DataStructures;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1161,8 +1161,8 @@
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructures-watchOS";
-				PRODUCT_NAME = SwiftDataStructures;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructures-watchOS";
+				PRODUCT_NAME = DataStructures;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
@@ -1186,8 +1186,8 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructures-macOS";
-				PRODUCT_NAME = SwiftDataStructures;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructures-macOS";
+				PRODUCT_NAME = DataStructures;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1210,8 +1210,8 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructures-macOS";
-				PRODUCT_NAME = SwiftDataStructures;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructures-macOS";
+				PRODUCT_NAME = DataStructures;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
@@ -1230,8 +1230,8 @@
 				INFOPLIST_FILE = "Sources/Info-tvOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructures-tvOS";
-				PRODUCT_NAME = SwiftDataStructures;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructures-tvOS";
+				PRODUCT_NAME = DataStructures;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1253,8 +1253,8 @@
 				INFOPLIST_FILE = "Sources/Info-tvOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructures-tvOS";
-				PRODUCT_NAME = SwiftDataStructures;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructures-tvOS";
+				PRODUCT_NAME = DataStructures;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
@@ -1274,7 +1274,7 @@
 				);
 				INFOPLIST_FILE = Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructuresTests-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructuresTests-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
@@ -1292,7 +1292,7 @@
 				);
 				INFOPLIST_FILE = Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructuresTests-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructuresTests-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -1309,7 +1309,7 @@
 				);
 				INFOPLIST_FILE = "Tests/Info-tvOS.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructuresTests-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructuresTests-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1329,7 +1329,7 @@
 				);
 				INFOPLIST_FILE = "Tests/Info-tvOS.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructuresTests-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructuresTests-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				SWIFT_VERSION = 3.0;
@@ -1351,7 +1351,7 @@
 				INFOPLIST_FILE = Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructuresTests-macOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructuresTests-macOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1373,7 +1373,7 @@
 				INFOPLIST_FILE = Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.SwiftDataStructuresTests-macOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.rahulkatariya.DataStructuresTests-macOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				SWIFT_VERSION = 3.0;
@@ -1383,7 +1383,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3549BAFF1DA387DB00C63030 /* Build configuration list for PBXProject "SwiftDataStructures" */ = {
+		3549BAFF1DA387DB00C63030 /* Build configuration list for PBXProject "DataStructures" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3549BB0B1DA387DB00C63030 /* Debug */,
@@ -1392,7 +1392,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3549BB261DA389CD00C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructures-iOS" */ = {
+		3549BB261DA389CD00C63030 /* Build configuration list for PBXNativeTarget "DataStructures-iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3549BB271DA389CD00C63030 /* Debug */,
@@ -1401,7 +1401,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3549BB331DA389DB00C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructures-watchOS" */ = {
+		3549BB331DA389DB00C63030 /* Build configuration list for PBXNativeTarget "DataStructures-watchOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3549BB341DA389DB00C63030 /* Debug */,
@@ -1410,7 +1410,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3549BB401DA389E800C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructures-macOS" */ = {
+		3549BB401DA389E800C63030 /* Build configuration list for PBXNativeTarget "DataStructures-macOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3549BB411DA389E800C63030 /* Debug */,
@@ -1419,7 +1419,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3549BB4D1DA389F300C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructures-tvOS" */ = {
+		3549BB4D1DA389F300C63030 /* Build configuration list for PBXNativeTarget "DataStructures-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3549BB4E1DA389F300C63030 /* Debug */,
@@ -1428,7 +1428,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3549BB691DA38ADB00C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructuresTests-iOS" */ = {
+		3549BB691DA38ADB00C63030 /* Build configuration list for PBXNativeTarget "DataStructuresTests-iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3549BB6A1DA38ADB00C63030 /* Debug */,
@@ -1437,7 +1437,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3549BB781DA38AEF00C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructuresTests-tvOS" */ = {
+		3549BB781DA38AEF00C63030 /* Build configuration list for PBXNativeTarget "DataStructuresTests-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3549BB791DA38AEF00C63030 /* Debug */,
@@ -1446,7 +1446,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3549BB871DA38B0000C63030 /* Build configuration list for PBXNativeTarget "SwiftDataStructuresTests-macOS" */ = {
+		3549BB871DA38B0000C63030 /* Build configuration list for PBXNativeTarget "DataStructuresTests-macOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3549BB881DA38B0000C63030 /* Debug */,

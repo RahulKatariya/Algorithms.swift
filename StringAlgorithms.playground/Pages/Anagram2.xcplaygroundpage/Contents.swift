@@ -4,7 +4,7 @@
  An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. For example, the word anagram can be rearranged into "naga ram".
  */
 
-import SwiftDataStructures
+import DataStructures
 
 /*:
  ### Using count - O(n)

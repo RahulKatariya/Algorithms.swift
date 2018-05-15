@@ -10,10 +10,8 @@
 
 func selectionSort<T: Comparable>(array: [T]) -> [T] {
     var array = array
-    var i = 0
-    while i < array.count {
-        
-        i = i+1
+    for i in 0..<array.count {
+        print(array[i])
     }
     return array
 }

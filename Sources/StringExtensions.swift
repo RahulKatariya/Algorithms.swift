@@ -1,6 +1,6 @@
 //
 //  StringExtensions.swift
-//  SwiftDataStructures
+//  DataStructures
 //
 //  Created by Rahul Katariya on 15/05/18.
 //  Copyright © 2018 RahulKatariya. All rights reserved.
