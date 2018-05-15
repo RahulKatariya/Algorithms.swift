@@ -6,13 +6,16 @@
 
 func bubbleSort<T: Comparable>(array: [T]) -> [T] {
     var array = array
+    
+    // Run the sort block {array.count} times to push the maximum value to the end of unsorted block
     for i in 0..<array.count {
-        for j in 0..<array.count {
-            let previousValue = array[i]
-            let nextValue = array[j]
-            if nextValue < previousValue {
-                array[j] = previousValue
-                array[i] = nextValue
+        // Iterate over the array and swap adjacent values in the unsorted array.
+        for j in 0..<array.count-1 {
+            let currentValue = array[j]
+            let nextValue = array[j+1]
+            if nextValue < currentValue {
+                array[j+1] = currentValue
+                array[j] = nextValue
             }
         }
     }

@@ -11,7 +11,14 @@
 func selectionSort<T: Comparable>(array: [T]) -> [T] {
     var array = array
     for i in 0..<array.count {
-        print(array[i])
+        for j in i..<array.count {
+            var firstValue = array[i]
+            var currentValue = array[j]
+            if firstValue > currentValue {
+                array[j] = firstValue
+                array[i] = currentValue
+            }
+        }
     }
     return array
 }
