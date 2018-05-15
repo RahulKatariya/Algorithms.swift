@@ -2,10 +2,16 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:SwiftDataStructures.xcodeproj">
+      location = "group:/Users/rahulkatariya/Developer/RahulKatariya/SwiftDataStructures/StringAlgorithms.playground">
    </FileRef>
    <FileRef
-      location = "group:SwiftDataStructures.playground">
+      location = "group:SearchingAlgorithms.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/rahulkatariya/Developer/RahulKatariya/SwiftDataStructures/SortingAlgoithms.playground">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftDataStructures.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:scripts">
