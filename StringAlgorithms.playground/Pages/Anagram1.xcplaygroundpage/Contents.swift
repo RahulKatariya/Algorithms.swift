@@ -29,3 +29,5 @@ areAnagramUsingSort(first: "abcd", second: "dcba") // true
 areAnagramUsingSort(first: "ab cd", second: "dcba") // true
 areAnagramUsingSort(first: "abcdd", second: "dcba") // false
 areAnagramUsingSort(first: "abcd", second: "bcde") // false
+
+//: [Next](@next)
