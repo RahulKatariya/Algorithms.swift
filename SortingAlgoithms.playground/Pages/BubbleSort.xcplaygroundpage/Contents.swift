@@ -4,6 +4,8 @@
  Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
  */
 
+import DataStructures
+
 func bubbleSort<T: Comparable>(array: [T]) -> [T] {
     var array = array
     // Run the sort block {array.count} times to push the maximum value to the end of unsorted block

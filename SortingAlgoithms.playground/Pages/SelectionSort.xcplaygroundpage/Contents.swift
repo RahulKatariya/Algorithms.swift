@@ -8,6 +8,8 @@
  2. Remaining subarray which is unsorted.
  */
 
+import DataStructures
+
 func selectionSort<T: Comparable>(array: [T]) -> [T] {
     var array = array
     for i in 0..<array.count {
