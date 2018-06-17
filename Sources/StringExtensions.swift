@@ -9,7 +9,7 @@
 import Foundation
 
 extension String {
- 
+    
     public func removingCharacters(in characterSet: CharacterSet) -> String {
         return components(separatedBy: characterSet).joined()
     }

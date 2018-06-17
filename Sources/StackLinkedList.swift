@@ -8,7 +8,7 @@
 
 import Foundation
 
-public struct StackLinkedList<Element> {
+public struct StackLinkedList<Element>: Stackable {
     
     fileprivate var linkedList = LinkedList<Element>()
     
@@ -19,8 +19,8 @@ public struct StackLinkedList<Element> {
         return linkedList.first
     }
     
-    public mutating func push(value: Element) {
-        linkedList.addFirst(value: value)
+    public mutating func push(_ element: Element) {
+        linkedList.addFirst(value: element)
     }
     
     @discardableResult

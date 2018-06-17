@@ -8,12 +8,14 @@
  2. Remaining subarray which is unsorted.
  */
 
-import DataStructures
+//import DataStructures
 
 func selectionSort<T: Comparable>(array: [T]) -> [T] {
     var array = array
     for i in 0..<array.count {
+        print(i, array[i])
         for j in i+1..<array.count {
+            print(i, j, array[i])
             var firstValue = array[i]
             var currentValue = array[j]
             if firstValue > currentValue {
@@ -25,7 +27,7 @@ func selectionSort<T: Comparable>(array: [T]) -> [T] {
     return array
 }
 
-selectionSort(array: [1,4,3,5,2]) // 1,2,3,4,5
-selectionSort(array: ["e","c","d","b","a"]) // a,b,c,d,e
+selectionSort(array: [5,3,4,1,2]) // 1,2,3,4,5
+//selectionSort(array: ["e","c","d","b","a"]) // a,b,c,d,e
 
 //: [Next](@next)

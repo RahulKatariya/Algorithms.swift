@@ -8,7 +8,7 @@
 
 import Foundation
 
-public struct QueueArray<Element> {
+public struct QueueArray<Element>: Queueable {
     
     fileprivate var array = Array<Element>()
     

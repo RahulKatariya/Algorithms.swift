@@ -12,7 +12,6 @@ public struct LinkedList<Element> {
     
     public typealias Node = LinkedListNode<Element>
     public fileprivate(set) var head: Node?
-    public fileprivate(set) var tail: Node?
     
     /// Creates a new, empty `LinkedList`.
     public init() {}
@@ -36,12 +35,12 @@ extension LinkedList {
         return head?.value
     }
     
-    /// A Boolean value indicating whether the stack is empty.
-    ///
-    /// - Complexity: O(1)
-    public var last: Element? {
-        return tail?.value
-    }
+//    /// A Boolean value indicating whether the stack is empty.
+//    ///
+//    /// - Complexity: O(1)
+//    public var last: Element? {
+//        return tail?.value
+//    }
     
     /// The number of elements in the linkedlist.
     ///
@@ -80,20 +79,20 @@ extension LinkedList {
         if let head = head {
             newNode.next = head
         } else {
-            tail = newNode
+//            tail = newNode
         }
         head = newNode
     }
     
-    public mutating func addLast(value: Element) {
-        let newNode = LinkedListNode(value: value)
-        if let t = tail {
-            t.next = newNode
-            tail = newNode
-        } else {
-            addFirst(value: value)
-        }
-    }
+//    public mutating func addLast(value: Element) {
+//        let newNode = LinkedListNode(value: value)
+//        if let t = tail {
+//            t.next = newNode
+//            tail = newNode
+//        } else {
+//            addFirst(value: value)
+//        }
+//    }
     
     public func insert(value: Element, at index: Int) {
         let newNode = LinkedListNode(value: value)

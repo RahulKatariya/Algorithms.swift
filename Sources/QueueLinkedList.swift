@@ -8,12 +8,12 @@
 
 import Foundation
 
-public struct QueueLinkedList<Element> {
+public struct QueueLinkedList<Element>: Queueable {
     
     fileprivate var linkedList = LinkedList<Element>()
     
     public mutating func enqueue(_ element: Element) {
-        linkedList.addLast(value: element)
+//        linkedList.addLast(value: element)
     }
     
     public mutating func dequeue() -> Element? {
